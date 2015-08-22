@@ -1,0 +1,571 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"live",
+				"live_server_url"
+			],
+			[
+				"observ",
+				"observableArray"
+			],
+			[
+				"cat",
+				"cat_click_button"
+			],
+			[
+				"cat_button",
+				"cat_button_string"
+			],
+			[
+				"cat_b",
+				"cat_button_string"
+			],
+			[
+				"diff",
+				"difference_elements"
+			],
+			[
+				"solution",
+				"solution_number"
+			],
+			[
+				"plank",
+				"plank_meter_cost"
+			],
+			[
+				"empty_",
+				"empty_stall_sequences"
+			],
+			[
+				"tweet_copy",
+				"tweet_copy_and_wrapped"
+			],
+			[
+				"location",
+				"location_vegas_exposed_15_01_engaged_15_0203"
+			],
+			[
+				"all_obser",
+				"all_observations_sample"
+			],
+			[
+				"T",
+				"TOMA_Norm_Percentile"
+			],
+			[
+				"TOMA",
+				"TOMA_Sig"
+			],
+			[
+				"TOMA_",
+				"TOMA_Delta"
+			],
+			[
+				"Recall",
+				"Recall_Norm_Percentile"
+			],
+			[
+				"Pref_",
+				"Pref_Norm_Percentile"
+			],
+			[
+				"Pref",
+				"Pref_Delta"
+			],
+			[
+				"BF",
+				"BF_Delta"
+			],
+			[
+				"BA",
+				"BA_Sig"
+			],
+			[
+				"AR_",
+				"AR_Sig"
+			],
+			[
+				"text",
+				"textanalytics_preprocessing"
+			],
+			[
+				"adv_follower_ed",
+				"adv_followers_edges_group"
+			],
+			[
+				"adv_follo",
+				"adv_followers_group"
+			],
+			[
+				"parent_status",
+				"parent_status_tweet_count"
+			],
+			[
+				"all_statu",
+				"all_status_tweet_group"
+			],
+			[
+				"TW",
+				"twkeys_directory"
+			],
+			[
+				"AtE_processed_tweet_copy_2014_",
+				"AtE_processed_tweet_copy_2014_02"
+			],
+			[
+				"tweet_",
+				"tweet_copy_and_wrapped"
+			],
+			[
+				"num",
+				"num"
+			],
+			[
+				"client",
+				"client_table"
+			],
+			[
+				"average",
+				"average_client_er"
+			],
+			[
+				"moneti",
+				"monetizable_engagements"
+			],
+			[
+				"all_status",
+				"all_status_purchase_intent_count"
+			],
+			[
+				"mom_status",
+				"mom_status_purchase_intent_group"
+			],
+			[
+				"all_status_p",
+				"all_status_puchase_intent_group"
+			],
+			[
+				"mom_",
+				"mom_status_purchase_intent"
+			],
+			[
+				"age_mult_class",
+				"age_mult_class_label"
+			],
+			[
+				"interested",
+				"interested_in_id_2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "all_users.py",
+			"settings":
+			{
+				"buffer_size": 397,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: a",
+				"Package Control: Enable Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rvasquez/workspace/taskbuster/functional_tests/all_users.py",
+		"/Users/rvasquez/.ssh/known_hosts",
+		"/Users/rvasquez/workspace/coursework/test_driven_development/part_2/lists/templates/base.html",
+		"/Users/rvasquez/workspace/coursework/test_driven_development/part_2/functional_tests/tests.py",
+		"/Users/rvasquez/workspace/coursework/test_driven_development/part_2/lists/templates/list.html",
+		"/Users/rvasquez/workspace/coursework/test_driven_development/part_2/lists/templates/home.html",
+		"/Users/rvasquez/workspace/coursework/test_driven_development/part_2/superlists/lists/static/base.css",
+		"/Users/rvasquez/workspace/coursework/test_driven_development/part_2/lists/static/base.css",
+		"/Users/rvasquez/workspace/coursework/test_driven_development/part_2/superlists/superlists/settings.py",
+		"/Users/rvasquez/workspace/coursework/front_end/project_5/js/app.js",
+		"/Users/rvasquez/workspace/coursework/front_end/project_5/index.html",
+		"/Users/rvasquez/workspace/ud989-cat-clicker-ko-starter/index2.html",
+		"/Users/rvasquez/workspace/coursework/front_end/project_3/index.html",
+		"/Users/rvasquez/workspace/coursework/front_end/project_5/design_patterns_app/index.html",
+		"/Users/rvasquez/workspace/coursework/front_end/project_5/retain/index.html",
+		"/Users/rvasquez/workspace/coursework/front_end/project_1/build_a_portfolio_site/css/style",
+		"/Users/rvasquez/workspace/coursework/front_end/project_1/html_lesson_1/bootstrap_portfolio/bootstrap-prestructure.html",
+		"/Users/rvasquez/Downloads/cow_problem.py",
+		"/Users/rvasquez/workspace/rowanv.github.io/index.html",
+		"/Users/rvasquez/workspace/bokeh/examples/README.md",
+		"/Users/rvasquez/workspace/data-science/Portfolio/index.html",
+		"/Users/rvasquez/workspace/rez/Pig/tv_tweets_by_location.pig",
+		"/var/folders/f4/qr09tm_169n4b9xyjsrjv8680000gn/T/sublime-sftp-browse-1430240617/adsnest1/home/rvasquez/scalding-repl.sh",
+		"/Users/rvasquez/workspace/source/birdcage/ads_research/engagement_ad_hoc/BUILD",
+		"/Users/rvasquez/workspace/rez/AffecttheEffect/Rowan/BES_wrapped_urls_and_tweet_copy_given_tweet_ids.pig",
+		"/Users/rvasquez/workspace/rez/AffecttheEffect/Rowan/AtE_wrapped_urls_and_tweet_copy_given_tweet_ids.pig",
+		"/Users/rvasquez/workspace/rez/AffecttheEffect/Rowan/AtE_merge_tweet_copy_and_ads_billing.pig",
+		"/Users/rvasquez/workspace/rez/AffecttheEffect/Rowan/AtE_merge_tweet_copy_and_ads_billin",
+		"/Users/rvasquez/workspace/rez/Pig/users_follow_advertisers.pig",
+		"/Users/rvasquez/workspace/rez/Scala/repl_scripts/tweet_copy_by_tweet_id.scala",
+		"/Users/rvasquez/workspace/source/birdcage/ads/engagement_counter/src/main/scala/com/twitter/ads/engagement_counter/organic_events/BUILD",
+		"/Users/rvasquez/workspace/source/science/src/scala/com/twitter/ads/BUILD",
+		"/Users/rvasquez/workspace/rez/python/queries_brand_effect_data_extraction.py",
+		"/Users/rvasquez/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/adsnest1",
+		"/Users/rvasquez/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/hadoopnest1",
+		"/Users/rvasquez/Google Drive/Presentations/Location_QCon.asc",
+		"/Users/rvasquez/workspace/rez/Pig/top_followers_CPG_advertisers.pig",
+		"/Users/rvasquez/workspace/rez/Pig/impressions_by_users.pig",
+		"/Users/rvasquez/workspace/coursework/Algorithms/Ch_3_Linked_Lists.ipynb",
+		"/Users/rvasquez/workspace/rez/Pig/vegas/jan_user_location_by_user_id_vegas_bsuc.pig",
+		"/Users/rvasquez/workspace/rez/Pig/wrapped_urls_and_tweet_copy_given_tweet_ids.pig",
+		"/Users/rvasquez/workspace/rez/Pig/follower_screen_names_by_advertiser_id.pig",
+		"/Users/rvasquez/workspace/rez/Pig/video_exposure_by_user_ID.pig",
+		"/Users/rvasquez/workspace/rez/Pig/vegas/exploratory_user_location_by_user_id_vegas_bsuc.pig",
+		"/Users/rvasquez/workspace/rez/Pig/vegas/user_location_by_user_id_vegas_bsuc.pig",
+		"/Users/rvasquez/Google Drive/Presentations/Location_QCon.html",
+		"/Users/rvasquez/workspace/rez/Pig/demographics/user_age_analysis.bash",
+		"/Users/rvasquez/workspace/rez/Pig/demographics/moms_analysis.pig",
+		"/Users/rvasquez/workspace/rez/Pig/demographics/user_age_analysis.pig",
+		"/Users/rvasquez/Google Drive/Presentations/Vegas_GPS_Project.asc",
+		"/Users/rvasquez/workspace/coursework/Algorithms/Ch_10_Sorting.ipynb",
+		"/Users/rvasquez/workspace/rez/Pig/vegas/user_location_by_user_id_longitudinal.pig",
+		"/Users/rvasquez/workspace/rez/Pig/vegas/user_location_by_user_id_vegas_control.pig",
+		"/Users/rvasquez/workspace/rez/R/AffectheEffect/BES_Regression_2015_Q1.ipynb",
+		"/Users/rvasquez/workspace/rez/AffecttheEffect/Rowan/AE_Oct2014-2.R",
+		"/Users/rvasquez/workspace/rez/AffecttheEffect/Rowan/AE_Oct2014.R",
+		"/Users/rvasquez/workspace/rez/Impact/impact_part_1.py",
+		"/Users/rvasquez/workspace/rez/Impact/queries_impact_part_1.py",
+		"/Users/rvasquez/workspace/rez/python/terms_list_into_pig_term_search.python",
+		"/Users/rvasquez/workspace/rez/R/AffectheEffect/OSI_regression_2015_03.R",
+		"/Users/rvasquez/workspace/rez/AffecttheEffect/Rowan/Tweet_Scrape.R",
+		"/Users/rvasquez/workspace/rez/AffecttheEffect/Rowan/tweet_IDs_by_campaign_IDs.sql",
+		"/Users/rvasquez/workspace/rez/Pig/tweet_copy_by_tweet_ids.pig",
+		"/Users/rvasquez/workspace/rez/Scala/tweet_copy_by_user_id.scala",
+		"/Users/rvasquez/workspace/rez/pig/impressions_by_tweet_ids.pig",
+		"/Users/rvasquez/workspace/rez/AffecttheEffect/Rowan/campaign_info_from_campaign_ids.sql",
+		"/Users/rvasquez/workspace/rez/Pig/demographics/moms_analysis.",
+		"/Users/rvasquez/workspace/source/science/src/python/twitter/ads_research/impact_data_extraction/flask_app/webapp.py",
+		"/Users/rvasquez/workspace/rez/Pig/demographics/model_confidence_teens.pig",
+		"/Users/rvasquez/Documents/Ad Hoc Pulls/demographics/moms_keywords",
+		"/Users/rvasquez/Documents/Ad Hoc Pulls/demographics/last_6_months_advertisers_2015_03_03.csv",
+		"/Users/rvasquez/Documents/student",
+		"/Users/rvasquez/Documents/service.yml",
+		"/Users/rvasquez/.certs/ca-bundle.crt",
+		"/Users/rvasquez/.procmailrc",
+		"/Users/rvasquez/.certs/.bashrc",
+		"/Users/rvasquez/.fetchmailrc",
+		"/Users/rvasquez/.certs/Thawte_Premium_Server_CA.pem",
+		"/Users/rvasquez/.certs/Equifax_Secure_CA.pem",
+		"/Users/rvasquez/workspace/source/science/src/scala/com/twitter/tweetcounter/BUILD",
+		"/Users/rvasquez/workspace/source/science/src/python/twitter/ads_research/impact_data_extraction/flask_app/BUILD",
+		"/Users/rvasquez/workspace/source/science/src/python/twitter/ads_research/impact_data_extraction/BUILD",
+		"/Users/rvasquez/Google Drive/Presentations/impact_2015Q1.asc",
+		"/Users/rvasquez/Library/Application Support/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/Users/rvasquez/workspace/rez/Impact/database_connections.py",
+		"/Users/rvasquez/workspace/source/science/src/python/twitter/ads_research/impact_data_extraction/flask_app/impact_part_1.py",
+		"/Users/rvasquez/workspace/source/science/src/python/twitter/ads_research/impact_data_extraction/flask_app/queries_impact_part_1.py",
+		"/Users/rvasquez/workspace/source/science/src/python/twitter/ads_research/impact_data_extraction/flask_app/queries_impact_part_2.py",
+		"/Users/rvasquez/Downloads/labs/mychain.py",
+		"/etc/hosts",
+		"/Users/rvasquez/Downloads/labs/fp/functional2.py",
+		"/Users/rvasquez/Google Drive/Presentations/streamlined_impact_report.key",
+		"/Users/rvasquez/workspace/rez/AffecttheEffect/Rowan/AtE_wrapped_url_pull.bash",
+		"/var/folders/f4/qr09tm_169n4b9xyjsrjv8680000gn/T/sublime-sftp-browse-1424379587/hadoopnest1/home/rvasquez/AtE_wrapped_urls_and_tweet_copy_given_tweet_ids.pig",
+		"/Users/rvasquez/workspace/rez/AffecttheEffect/Rowan/AtE_data_joins.py",
+		"/Users/rvasquez/workspace/rez/SQL/tweet_IDs_by_campaign_IDs.sql",
+		"/Users/rvasquez/workspace/rez/AffecttheEffect/Rowan/tweet_",
+		"/private/etc/hosts",
+		"/Users/rvasquez/workspace/source/science/src/python/twitter/ads_research/impact_data_extraction/flask_app/impact_part_2.py",
+		"/Users/rvasquez/workspace/source/science/3rdparty/scalding/BUILD",
+		"/Users/rvasquez/workspace/flasky/hello.py",
+		"/Users/rvasquez/workspace/advanced_analytics/scalding_for_analytics/AdhocLocal.scala",
+		"/Users/rvasquez/workspace/rez/Scala/BUILD",
+		"/Users/rvasquez/workspace/advanced_analytics/scalding_for_analytics/BUILD",
+		"/Users/rvasquez/Documents/Ad Hoc Pulls/demographics/scalding_for_analytics/BUILD",
+		"/Users/rvasquez/workspace/advanced_analytics/scalding_for_analytics/AdhocLocal",
+		"/var/folders/f4/qr09tm_169n4b9xyjsrjv8680000gn/T/sublime-sftp-browse-1423688013/hadoopnest1/home/rvasquez/moms_analysis.pig",
+		"/Users/rvasquez/workspace/rez/R/demographics/teens_analysis.R",
+		"/Users/rvasquez/workspace/rez/Pig/demographics/hispanic_vit_followers.pig",
+		"/Users/rvasquez/workspace/rez/Pig/count_followers.pig",
+		"/Users/rvasquez/.bash_profile",
+		"/Users/rvasquez/.bashrc",
+		"/Users/rvasquez/Documents/Ad Hoc Pulls/demographics/user_age_analysis.R",
+		"/Users/rvasquez/workspace/rez/AffecttheEffect/Rowan/AtE_create_tables.sql",
+		"/Users/rvasquez/workspace/source/science/src/python/twitter/ads_research/impact_data_extraction/flask_app/old_app/webapp.py",
+		"/Users/rvasquez/workspace/source/science/src/python/twitter/ads_research/impact_data_extraction/flask_app/templates/base.html",
+		"/Users/rvasquez/workspace/rez/Pig/demographics/moms_analysis.bash",
+		"/Users/rvasquez/.gitignore",
+		"/Users/rvasquez/workspace/source/science/.git/info/exclude",
+		"/Users/rvasquez/workspace/source/science/.gitignore",
+		"/Users/rvasquez/workspace/source/science/src/python/twitter/ads_research/impact_data_extraction/flask_app/impactapp.aurora",
+		"/Users/rvasquez/workspace/source/science/src/python/twitter/ads_research/impact_data_extraction/flask_app/impact_app.aurora",
+		"/Users/rvasquez/workspace/source/science/src/python/twitter/ads_research/impact_data_extraction/flask_app/old_app/BUILD",
+		"/Users/rvasquez/workspace/source/science/src/python/twitter/ads_research/impact_data_extraction/flask_app/templates/submitted_form.html",
+		"/Users/rvasquez/workspace/source/science/src/python/twitter/ads_research/impact_data_extraction/flask_app/templates/part1.html",
+		"/Users/rvasquez/workspace/source/science/src/python/twitter/ads_research/impact_data_extraction/flask_app/templates/index.html",
+		"/var/folders/f4/qr09tm_169n4b9xyjsrjv8680000gn/T/sublime-sftp-browse-1423494369/hadoopnest1/home/rvasquez/moms_analysis.pig",
+		"/var/folders/f4/qr09tm_169n4b9xyjsrjv8680000gn/T/sublime-sftp-browse-1423239189/hadoopnest1/home/rvasquez/Pig/user_age_analysis.pig"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"live_server_url",
+			"initMap",
+			"pyrmont",
+			"!",
+			"catClick",
+			"empty_stall_sequences",
+			"'$epsilon'",
+			"'$target_lon'",
+			"'$target_lat'",
+			"17",
+			"all_camp",
+			"lm1 <- lm(df$PI_Sig ~., data=df_dv)\nsummary(lm1)",
+			"\nval filtered_follows = follows.filter{ case(producerId, _) => producerId == 2802756242L}",
+			"ab.corpus",
+			"X",
+			"us_users",
+			"sample",
+			"Thawte",
+			"Equifax",
+			"equifax",
+			"thawte",
+			"hawte",
+			"mcur",
+			"vcur",
+			"teen",
+			"hispanic_vit_users",
+			"us_users",
+			"teen",
+			"us_users",
+			"geo_locations_pre",
+			"engine"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"server_url",
+			"barcelona",
+			"3",
+			"115.17",
+			"36.1215",
+			"sc.corpus",
+			"geo_locations_post"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "all_users.py",
+					"settings":
+					{
+						"buffer_size": 397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								397,
+								397
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
