@@ -26,3 +26,10 @@ class NewVisitorTest(StaticLiveServerTestCase):
 		self.assertEqual(h1.value_of_css_property('color'),
 			'rgba(255, 255, 255, 1)')
 
+	def test_about_page(self):
+		self.browser.get(self.get_full_url('about'))
+		self.assertIn('About', self.browser.title)
+
+	def test_portfolio_pages(self):
+		pass
+
